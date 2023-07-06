@@ -1,4 +1,0 @@
-* Added option for custom intake
-* Modified all intake values
-* Added custom target option
-* Removed some unwanted input fields
